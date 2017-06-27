@@ -1,0 +1,12 @@
+#user_table {
+    border: 1px solid black;
+}
+
+#table_head {
+    border: 2px solid black;
+    background: red;
+}
+
+#first, #last, #email, #contact {
+    display: block;
+}
